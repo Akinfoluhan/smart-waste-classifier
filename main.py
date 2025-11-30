@@ -19,7 +19,7 @@ import numpy as np
 import openai
 
 # API key
-openai.api_key = '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'
+
 
 cap = cv2.VideoCapture(0)
 classifier = Classifier('Resources/Model/keras_model.h5', 'Resources/Model/labels.txt')

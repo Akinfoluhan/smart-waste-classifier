@@ -14,3 +14,7 @@ __pycache__/
 
 # Environment files
 .env
+
+.idea/.name
+.vscode/
+openai_api_key.rtf

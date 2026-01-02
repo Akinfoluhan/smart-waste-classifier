@@ -8,6 +8,8 @@ This project uses OpenCV and cvzone to capture live video, run inference with a 
 
 ## Demo
 
+_In progress_
+
 ## How it works
 
 1. Capture frames from the webcam (OpenCV).
